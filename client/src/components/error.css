@@ -1,0 +1,13 @@
+.error {
+	width: 100%;
+	height: fit-content;
+	padding: 0.5rem 0.4rem;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 0.7rem;
+	background: #ff00154d;
+	color: #fff;
+    font-size: 12px;
+    border-radius: 4px;
+}

@@ -1,0 +1,21 @@
+
+
+.user-card {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 0.6rem;
+
+}
+.user-card img {
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+	border: 3px solid #fecd00;
+	padding: 0.5rem;
+}
+
+.user-card p {
+	font-size: 10px;
+	color: var(--textSoft);
+}
